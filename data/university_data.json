@@ -66,128 +66,990 @@
             }
         ],
         "kaprodi": [
-            { "kode": "15401", "prodi": "Kebidanan", "jenjang": "D3", "nama": "Mareza Yolanda Umar, M.,Kes" },
-            { "kode": "13462", "prodi": "Rekam Medis dan Informasi Kesehatan", "jenjang": "D3", "nama": "Tri Adi Nugroho, S.Kom., MPH" },
-            { "kode": "20406", "prodi": "Teknik Elektronika", "jenjang": "D3", "nama": "Dwi Feriyanto, S.T., M.Pd" },
-            { "kode": "15901", "prodi": "Pendidikan Profesi Bidan", "jenjang": "Profesi", "nama": "Yuni sulistiawati, S.ST., M. Tr.Keb" },
-            { "kode": "14901", "prodi": "Pendidikan Profesi Ners", "jenjang": "Profesi", "nama": "Feri Agustriyani, S.Kep., Ners., M.Kep" },
-            { "kode": "55202", "prodi": "Teknik Informatika", "jenjang": "S1", "nama": "Tahta Herdian Andika, S.Kom., M.T.I" },
-            { "kode": "58201", "prodi": "Rekayasa Perangkat Lunak", "jenjang": "S1", "nama": "Nur Aminudin, S.Kom., M.T.I" },
-            { "kode": "62201", "prodi": "Akuntansi", "jenjang": "S1", "nama": "Andi Mulyono, S.E., M.Ak" },
-            { "kode": "48201", "prodi": "Farmasi", "jenjang": "S1", "nama": "Mida Pratiwi, S.Farm., Apt., M.Farm" },
-            { "kode": "13211", "prodi": "Gizi", "jenjang": "S1", "nama": "Alifiyanti Muharramah, S.Gz., MGz" },
-            { "kode": "15201", "prodi": "Kebidanan", "jenjang": "S1", "nama": "Beniqna Maharani Besmaya, S.Tr. Keb., M.Tr.Keb" },
-            { "kode": "14201", "prodi": "Keperawatan", "jenjang": "S1", "nama": "Giri Susanto, S.Kep., Ners., M.Kep" },
-            { "kode": "88203", "prodi": "Pendidikan Bahasa Inggris", "jenjang": "S1", "nama": "Septika Ariyanti, S.Pd., M.Pd" },
-            { "kode": "85201", "prodi": "Pendidikan Jasmani", "jenjang": "S1", "nama": "Ziko Fajar Ramadhan, S.Pd., M.Pd" },
-            { "kode": "83207", "prodi": "Pendidikan Teknologi Informasi", "jenjang": "S1", "nama": "Rendy Yudha Pratma, S.Pd., M.Pd" },
-            { "kode": "73201", "prodi": "Psikologi", "jenjang": "S1", "nama": "Fixi Intansari, S.Psi., M.Psi., Psikolog" },
-            { "kode": "15101", "prodi": "Kebidanan", "jenjang": "S2", "nama": "Dr. Sri Rahayu, S.SiT., Bd., MARS" },
-            { "kode": "14105", "prodi": "Keperawatan", "jenjang": "S2", "nama": "Riska Hediya Putri, S.Kep., Ners., M.Kep" }
+            {
+                "kode": "15401",
+                "prodi": "Kebidanan",
+                "jenjang": "D3",
+                "nama": "Mareza Yolanda Umar, M.,Kes"
+            },
+            {
+                "kode": "13462",
+                "prodi": "Rekam Medis dan Informasi Kesehatan",
+                "jenjang": "D3",
+                "nama": "Tri Adi Nugroho, S.Kom., MPH"
+            },
+            {
+                "kode": "20406",
+                "prodi": "Teknik Elektronika",
+                "jenjang": "D3",
+                "nama": "Dwi Feriyanto, S.T., M.Pd"
+            },
+            {
+                "kode": "15901",
+                "prodi": "Pendidikan Profesi Bidan",
+                "jenjang": "Profesi",
+                "nama": "Yuni sulistiawati, S.ST., M. Tr.Keb"
+            },
+            {
+                "kode": "14901",
+                "prodi": "Pendidikan Profesi Ners",
+                "jenjang": "Profesi",
+                "nama": "Feri Agustriyani, S.Kep., Ners., M.Kep"
+            },
+            {
+                "kode": "55202",
+                "prodi": "Teknik Informatika",
+                "jenjang": "S1",
+                "nama": "Tahta Herdian Andika, S.Kom., M.T.I"
+            },
+            {
+                "kode": "58201",
+                "prodi": "Rekayasa Perangkat Lunak",
+                "jenjang": "S1",
+                "nama": "Nur Aminudin, S.Kom., M.T.I"
+            },
+            {
+                "kode": "62201",
+                "prodi": "Akuntansi",
+                "jenjang": "S1",
+                "nama": "Andi Mulyono, S.E., M.Ak"
+            },
+            {
+                "kode": "48201",
+                "prodi": "Farmasi",
+                "jenjang": "S1",
+                "nama": "Mida Pratiwi, S.Farm., Apt., M.Farm"
+            },
+            {
+                "kode": "13211",
+                "prodi": "Gizi",
+                "jenjang": "S1",
+                "nama": "Alifiyanti Muharramah, S.Gz., MGz"
+            },
+            {
+                "kode": "15201",
+                "prodi": "Kebidanan",
+                "jenjang": "S1",
+                "nama": "Beniqna Maharani Besmaya, S.Tr. Keb., M.Tr.Keb"
+            },
+            {
+                "kode": "14201",
+                "prodi": "Keperawatan",
+                "jenjang": "S1",
+                "nama": "Giri Susanto, S.Kep., Ners., M.Kep"
+            },
+            {
+                "kode": "88203",
+                "prodi": "Pendidikan Bahasa Inggris",
+                "jenjang": "S1",
+                "nama": "Septika Ariyanti, S.Pd., M.Pd"
+            },
+            {
+                "kode": "85201",
+                "prodi": "Pendidikan Jasmani",
+                "jenjang": "S1",
+                "nama": "Ziko Fajar Ramadhan, S.Pd., M.Pd"
+            },
+            {
+                "kode": "83207",
+                "prodi": "Pendidikan Teknologi Informasi",
+                "jenjang": "S1",
+                "nama": "Rendy Yudha Pratma, S.Pd., M.Pd"
+            },
+            {
+                "kode": "73201",
+                "prodi": "Psikologi",
+                "jenjang": "S1",
+                "nama": "Fixi Intansari, S.Psi., M.Psi., Psikolog"
+            },
+            {
+                "kode": "15101",
+                "prodi": "Kebidanan",
+                "jenjang": "S2",
+                "nama": "Dr. Sri Rahayu, S.SiT., Bd., MARS"
+            },
+            {
+                "kode": "14105",
+                "prodi": "Keperawatan",
+                "jenjang": "S2",
+                "nama": "Riska Hediya Putri, S.Kep., Ners., M.Kep"
+            }
         ]
     },
     "dosen": [
-        { "nama": "Abdul rahman PN,S.H.,MH" }, { "nama": "Abdullah, SKM., MPH" }, { "nama": "Ade Tyas Mayasari, S.ST., M.Keb" },
-        { "nama": "Adi Prasandi, SKM., M. Kes" }, { "nama": "Afra LatHifah, M.Pd" }, { "nama": "Aftulensi Nurhayati, S.Gz., RD., M.P.H" },
-        { "nama": "Agustinus Eko Setiawan, S.Kom., M.Kom" }, { "nama": "Ahmad Bayu Satriawan. S.Farm., Apt., M.Farm" }, { "nama": "Ahmad Nuruhudin, M.Pd" },
-        { "nama": "Ajeng Mustika Sari,S.Psi.,M.Psi" }, { "nama": "Alfina, S.Pd., M.Pd" }, { "nama": "Alifiyanti Muharramah, S.Gz., MGz" },
-        { "nama": "Amali Rica Pratiwi,S.Gz., M.Gz" }, { "nama": "Amatus Yudi Ismanto, S.Kep., Ners., M.Ke., Sp An., Ph.D" }, { "nama": "Amir Syaifurrohman,S.Ag.,M.Pd" },
-        { "nama": "Amrulloh Khusain,M.Kom.I" }, { "nama": "Ana Annisa Mutiara, S. Kep., Ners., M. Kes" }, { "nama": "Ana Istiani, M.Si" },
-        { "nama": "Andi Mulyono,SE.M.AK" }, { "nama": "Andi Susanto, S.Kep., Ners., M.Kep" }, { "nama": "Andi Widiono,M.Pd" },
-        { "nama": "Andri Prasetiyo, S.Pd., M.Pd" }, { "nama": "Anggi Kusuma, S.Kep., Ners., M.Kep" }, { "nama": "Anggie Stiexs, S.Kep., Ners., M.Kep" },
-        { "nama": "Dr. Ani Kristianingsih, S.ST., M.Kes" }, { "nama": "Annajim Daskar, S,Farm.M.Farm" }, { "nama": "Annida Dahrul, S.Psi.,M.Si" },
-        { "nama": "Annisa Dila Febriyanti, M. Si" }, { "nama": "Annisa Syafitri,M.Tr.Keb" }, { "nama": "Annisai Rohimah, S. Kep., Ners., M. N. Sc" },
-        { "nama": "apt.Afi Sania Rosanti,S.Si.,M.Farm" }, { "nama": "Ardinata, S.Kep., Ners., M.Kep" }, { "nama": "Ardiyansyah, S. Farm., Apt., M. Farm" },
-        { "nama": "Arif Alexander Bastian,S.Pd., M.Pd" }, { "nama": "Asril HS, S.Kep., M.P.H" }, { "nama": "Atika Ulfah,S.Akun.,M.Ak" },
-        { "nama": "Aviv Fitria Yulia, S.Kom., M.T.I" }, { "nama": "Ayu Noviana, M.Pd" }, { "nama": "Baihaqi,M.Pd" },
-        { "nama": "Bayu Sekar Larasati,S.Psi.M.Psi.Psikolog" }, { "nama": "Beniqna Maharani Besmaya, S. ST., M.Tr.Keb" }, { "nama": "Bungsudi, Spd., M. Pd" },
-        { "nama": "Celly Devita Febrianti, S.Kep., Ners., MKM" }, { "nama": "Cici Gustianingrum, SST., K. Kes" }, { "nama": "Cintya Sukma Widita, S.Pd., M.Pd.I" },
-        { "nama": "Cintya Sukma Widita,S.Pd.,M.Pd.I" }, { "nama": "Defy Gustianing, S.Pd., M.Pd." }, { "nama": "Dera Elva Junita, S.Gz., M.Gz" },
-        { "nama": "Desi Kumalasari, S.ST., M.Kes" }, { "nama": "Dessy Nur Safitri, S.Keb., Bd" }, { "nama": "Desti Ambar Wati, S.Gz., M.Gz" },
-        { "nama": "Desti Ambar Wati, S.Gz., M.Gz." }, { "nama": "Devieka Rhama Dhanny, S.Gz., MKM" }, { "nama": "Devieka Rhama Dhanny, S.Gz.,MKM" },
-        { "nama": "Dewi Damayanti,S.Farm.,M.S.Farm" }, { "nama": "Diah Kartika Putri,S.Farm.M.Farm" }, { "nama": "Dian Arif Wahyudi, S.Kep., Ners., MAN" },
-        { "nama": "Dian Novita,M.Kep.,Sp.KMB" }, { "nama": "Didi Suswanto,M.Kes" }, { "nama": "Dina Wahida, S.Psi., M.Psi., Psikolog" },
-        { "nama": "Dita Maryani, M. Si" }, { "nama": "Dita Septasari,S.Kom., M.Kom" }, { "nama": "Dosen Bahasa Indonesia" },
-        { "nama": "Dosen Farmakologi" }, { "nama": "Dosen Farmasi Fisika 1" }, { "nama": "Dosen Kewarganegaraan" },
-        { "nama": "Dosen Kimia Dasar" }, { "nama": "Dosen Kode Etik Psikologi" }, { "nama": "Dosen Pancasila" },
-        { "nama": "Dosen Pengantar Akuntansi 1" }, { "nama": "Dosen Pengantar Bisnis" }, { "nama": "Dosen Pengantar Ekonomi" },
-        { "nama": "Dosen Pengantar Manajemen" }, { "nama": "Dosen Psikologi Perkembangan 1" }, { "nama": "Dosen Psikologi Umum" },
-        { "nama": "Dosen Sejarah dan Aliran Psikologi" }, { "nama": "Doti Mustikasari,SST.,M.Kes" }, { "nama": "dr. Afria Tika Ningrum" },
-        { "nama": "dr. Ali Satria, Sp. B" }, { "nama": "Dr. Aprina,S.Kep.,M.Kes" }, { "nama": "Dr. Elsa Fitri Ana.,S.keb.bd.M.Keb.Trop" },
-        { "nama": "Dr. H. Taufik, Sp.OG" }, { "nama": "dr. Hernando" }, { "nama": "Dr. Ir. Zulkifli, S.T., M.Kom" },
-        { "nama": "dr. Rika Rahmawati" }, { "nama": "dr. Sandra Lusi Novita Batubara, S.Ked., M.M.R" }, { "nama": "dr. Satria Dharma Setiawan" },
-        { "nama": "Dr. Si. Agus Wantoro, S.Kom., M.Kom" }, { "nama": "Dr. Sri Rahayu, S.SiT., MARS" }, { "nama": "dr. Susilo Setiawan, S.Ked., M.M.R" },
-        { "nama": "Dr. Vivian Nanny Lia Dewi, S.ST., M.Kes" }, { "nama": "dr. Zahra Puspita" }, { "nama": "Dr. Zulfi Wijayanti, S. Si.T., M. Kes" },
-        { "nama": "dr.Swastu Nurul Azizah" }, { "nama": "Dwi Feriyanto, S.T., M.Pd" }, { "nama": "Dwi Oktarosada, M.Pd." },
-        { "nama": "Dwi Yana Ayu Andini, S.Kom, M.T.I" }, { "nama": "Dyah Fitri Mulati,S.Pd., M.Pd" }, { "nama": "Edy Syamsuri, SSI., MM., Apt" },
-        { "nama": "Eka NurZanah, M.Acc." }, { "nama": "Eka Pratiwi YuniantiS.Pd., M.Pd" }, { "nama": "Eka Tri Wulandari, S.ST., M.Keb" },
-        { "nama": "Eko Wardoyo, S.Kep., Ners., M.Kep" }, { "nama": "Elsy Juni Andri Kariny,S.ST., M.Keb" }, { "nama": "Erna Yanti,S.Farm.,Apt., MPH" },
-        { "nama": "Etanaulia Marsim,S.Tr.Kes.,M.K.M" }, { "nama": "Fadillah Ayu SWP, S.Farm., Apt., M.Farm" }, { "nama": "Fadlu Rachman,S.Pd., M.Pd" },
-        { "nama": "Fahlul Rizki, S.Kom., M.TI" }, { "nama": "Faidzun Jatur Priona, S. Pd., M. Pd" }, { "nama": "Fauzan Fuadi,S.Ak.,M.Sc" },
-        { "nama": "Febra Anjar Kusuma, S.Pd.,M.Pd" }, { "nama": "Felinda Sari,S.Pd., M.Or" }, { "nama": "Fera Noor Maliza, S. Farm., Apt., M. Farm" },
-        { "nama": "Feri Agustriyani, S.Kep., Ners., M.Kep" }, { "nama": "Feri Kameliawati, S.Kep., Ners., M.Kep" }, { "nama": "Ferly Ardhy,S.Kom.,M.T.I.,MOS" },
-        { "nama": "Fina Aulika Lestari,S.Pd., M.Pd" }, { "nama": "Fitra Endi Fernanda.S.Pd,M.Pd" }, { "nama": "Fitria Fertha Agustina,S.Ak., M.Acc" },
-        { "nama": "Fitriana, SST., M.Kes" }, { "nama": "Fixi Intansari,S.Psi.M.Psi.Psikolog" }, { "nama": "Florentinus Yogi Pratama, S. Kep., Ners., M. Kes" },
-        { "nama": "Galih Ramaputra, S.Kom., M.T.I" }, { "nama": "Giri Susanto, S.Kep.Ners" }, { "nama": "Hafsah Mukaromah, S.Kom, M.Kom" },
-        { "nama": "Hana Zumaedza Ulfa, S.Kep., Ners.,M.Kep" }, { "nama": "Hardono,S.Kep., Ners., M.Kep" }, { "nama": "Hasni Diana, S. Kep., Ners., M. Kes" },
-        { "nama": "Hellen Febriyanti, S.ST.,M.Kes" }, { "nama": "Hendrayani, SST., M. Kes" }, { "nama": "Heni Anggraini, SST., M. Kes" },
-        { "nama": "Hikmah Ifayanti, S.Keb., Bd., M.Kes" }, { "nama": "Ida Ayu Puspita Sari, S.Kom., M.T.I" }, { "nama": "Iga Mayola Pisacha,S.Farm., M.Si" },
-        { "nama": "Iis Tri Utami, S.ST., M.Keb" }, { "nama": "Ika Fitria Elmeida" }, { "nama": "Ikhwan Amirudin,S.Kep., Ners., M.Kep" },
-        { "nama": "Ikna Awaliyani, S.kom., M.Kom" }, { "nama": "Imam bajuri, M.Pd." }, { "nama": "Imam Bajuri,S.Pd.,M.Pd" },
-        { "nama": "Imam Subekti, SE.,M.Kes.AAK" }, { "nama": "Inggit Primadevi, S.ST.,M.Keb" }, { "nama": "Irsan Aras, S. T., M. Kom" },
-        { "nama": "Isbiantoro,S.Si.,Apt" }, { "nama": "Jovana Renaldy Gumay, S.Pd., M.Pd" }, { "nama": "Juwita Desri Ayu,S.Tr.,M.Keb" },
-        { "nama": "Khaidir Ali, S.T., M.Eng" }, { "nama": "Kiki Rizki Amelia, S.Kom. M.T.I" }, { "nama": "Komalasari, S.ST., M.Keb" },
-        { "nama": "Lara Ayu Lestari, S.Gz., M.Gz., RD" }, { "nama": "Lina Madila Amir,M.Psi.,Psikolog" }, { "nama": "Dr. Linda Puspita,S.ST., M.Kes" },
-        { "nama": "Lisma Wardani,S.Pd.I,.M.Pd" }, { "nama": "Lusia Asih Wulandari, S. Si. T., M. Kes., Ph. D" }, { "nama": "Luthfiana Nurkusuma Ningtyas, S.Gz.,M.Gz" },
-        { "nama": "M. Farhan Al Farisi, S.Kep., Ners., M.Kep" }, { "nama": "Mareza Yolanda Umar, S.ST., M.Kes" }, { "nama": "Masayu Dian Khairani, M.Gz" },
-        { "nama": "Maulia Isnaini, S.ST." }, { "nama": "Mayesty Akhriani,S.Gz.,M.Sc" }, { "nama": "Meilia Wigati, S.Psi., M.Psi" },
-        { "nama": "Mesya, S.Kep., Ners., M.Kep" }, { "nama": "Meti Kurniawati,S.Gz.M.K.M" }, { "nama": "Mida Pratiwi,S.Farm.,Apt.,M.Farm" },
-        { "nama": "Moh Heri Kurinawan, S.Kep., Ners., M.Kep" }, { "nama": "Muhammad Lathief Syaifussalam,M.Psi.,Psikolog" }, { "nama": "Mutiara Ayu Muthiatulsalimah,  S. Tr. Keb., M. Tr. Keb" },
-        { "nama": "Naufal Sinatria, S.A.B., M.M" }, { "nama": "Nila Kurniasih, M.Keb" }, { "nama": "Nisa Nurrohmah, S. Pd., M. Pd" },
-        { "nama": "Nita Winda Lestari, S. Farm., M. Farm" }, { "nama": "Nopi Anggista Putri,S.ST.,M.Keb" }, { "nama": "Novrilia Atika Nabila, S. Farm., Apt., M. Clin. Pharm" },
-        { "nama": "Ns. Zuriati, M.Kep., Ph.D" }, { "nama": "Nur Alfi Fauziah, S.ST., M.Tr.Keb" }, { "nama": "Nur Aminudin, M.T.I" },
-        { "nama": "Nurhasanah, M.Hum" }, { "nama": "Nurhayati, S.Psi., M.Psi., Psikologi" }, { "nama": "Nurul Kusuma Hadiyati,M.Kes.,Apt" },
-        { "nama": "Nuryani,S.Si.T., M.Kes" }, { "nama": "Nuryanto,S.Farm.,Apt.,M.Kes" }, { "nama": "Ockhy Jey Fhiter Wassalam, S.Kom.,M.Kom" },
-        { "nama": "Panji Bintoro,S.Kom. ,M.Cs" }, { "nama": "Prisca Anggela S.Farm., Apt., M.Farm" }, { "nama": "Psiari Kusuma Wardani, S.ST., M.Kes" },
-        { "nama": "Putri Rahma Alamsyah, S.Gz., M.Si" }, { "nama": "Rahmi Khalida, S.Gz.,M.Si" }, { "nama": "Raidah Hanifah,S.Psi.,M.Psi" },
-        { "nama": "Ramadhana Komala, S.Gz., M.Si" }, { "nama": "Ramadhana Komala, S.Gz., M.Si" }, { "nama": "Ratnasari,S.Kom.,M.Kom" },
-        { "nama": "Rendy yudha Pratama, M.Pd" }, { "nama": "Rice Hernanda,S.Kep.. Ners., M.Kep" }, { "nama": "Rika Agustina,SST.,M.Keb" },
-        { "nama": "Rika Damayanti,M.Kep.,Sp.J" }, { "nama": "Rima Wilantika, S.Psi., M.Psikologi" }, { "nama": "Rini Palupi,S,.Kep.Ners., M.Kep" },
-        { "nama": "Rini Wahyuni,S.ST., M.Kes." }, { "nama": "Riona Sanjaya, S.ST.,M.Keb" }, { "nama": "Ririn Wulandari, S.ST., M.PH., Ph.D" },
-        { "nama": "Riska Agi Sawitri,SE., M.Si" }, { "nama": "Riska Hediya Putri, S.Kep., Ners.M.Kep" }, { "nama": "Riska Nur Suci Ayu, S.ST.M.Gz" },
-        { "nama": "Rita Purnamasari, S.Farm., Apt" }, { "nama": "Riyanti,S.Kep.,Ners" }, { "nama": "Riza Dwiningrum, S.Si., M.Biomed" },
-        { "nama": "Rizka Dwi Yovita, S.K.M., M.K.M" }, { "nama": "Rizki Yeni Wulandari, S.Kep., Ners., M.Kep" }, { "nama": "Rully Afrita Herlianty, S.Psi., M.A" },
-        { "nama": "Salman Alfarisi Salimu,S.Pd., M.Kom" }, { "nama": "Satria Armanjaya, S.Pd., M.Pd" }, { "nama": "Selly Puspitasari,S.Pd.M.AK" },
-        { "nama": "Septika Ariyanti,S.Pd.,M.Pd" }, { "nama": "Septika Yani Veronica, S.ST., M.Tr.Keb" }, { "nama": "Sigit Andriyanto, nS.Kom., M.T.I" },
-        { "nama": "Siti Maesaroh, S.ST., M.Kes" }, { "nama": "Siti Rohani, S.ST., M.Kes" }, { "nama": "Siti Saidah, S.Pd.,M.Pd" },
-        { "nama": "Sri Nowo Retno, S. Si. T., M. Kes., Ph.D" }, { "nama": "Subni, S. Pd., M. Pd" }, { "nama": "Sucia Dwi Nugerahaeni, SST.,M.Kes" },
-        { "nama": "Sugiarto,S.Kep., Ners., M.Kep" }, { "nama": "Sugiyanto,M.Kes" }, { "nama": "Sukarni, SST., M.Kes" },
-        { "nama": "Sulistia Nur, S.Kep., Ners., M.Kep" }, { "nama": "Sunarmi,S.E.,M.A.K" }, { "nama": "Surmiasih, S.Kep., Ners., M.Kes" },
-        { "nama": "Sutrisno, S.Kep., Ners., MAN" }, { "nama": "Tahta Herdian Andika, S.Kom., M.T.I" }, { "nama": "Tias Eka Rahmawati,S.Farm.,M.Farm" },
-        { "nama": "Titi Astuti,M.Keb.,Sp,Mat" }, { "nama": "Tri Adi Nugroho, S.Kom., MPH" }, { "nama": "UAPDK03092020080190" },
-        { "nama": "Ubaidah, S.T" }, { "nama": "Ulfa Ismi Kurnia, S.Pd., M.Pd.T" }, { "nama": "Umi Hani Azizah,S.Farm, M. Farm" },
-        { "nama": "Vicko Suswidiantoro, S.Farm.Apt" }, { "nama": "Vovi Meidas Setia, M. Kep" }, { "nama": "Widya Fadila, SKM.,MKM" },
-        { "nama": "Wike Sri Yohana, SST, M. Kes" }, { "nama": "Wina Safutri,S.Si.,M.Biomed" }, { "nama": "Winda Afikirtiani, S. Kep., Ners., M. Kep" },
-        { "nama": "Wisnu Probo Wijayanto,S.Kep., Ners., MAN" }, { "nama": "Wisnu Sadhana, S.Kep., Ners., MSN., Ph.D" }, { "nama": "Witantri Dwi Swandini,SE.,M.Ak" },
-        { "nama": "Wulan Dari. S.ST., M.Tr.Keb" }, { "nama": "Yenny Marthalena, S.E., MM" }, { "nama": "Yessiana Luthfia Bahri, S.KM., M.KM." },
-        { "nama": "Yetty Dwi Fara, S.ST., M.Tr.Keb" }, { "nama": "Yona Desni Sagita, S.ST.,M.Kes" }, { "nama": "Yuni sulistiawati, S.ST., M. Tr.Keb" },
-        { "nama": "Yunita Anggriani,S.Tr.Keb.M.Keb" }, { "nama": "Yurike Elanda, S. Farm., Apt., M. Farm" }, { "nama": "Zaikar,M.Kep" },
-        { "nama": "Zenni Puspitarini, S.Kep,.Ners.M.Kep" }, { "nama": "Ziko Fajar Ramadhan,S.Pd., M.Pd" }
+        {
+            "nama": "Abdul rahman PN,S.H.,MH"
+        },
+        {
+            "nama": "Abdullah, SKM., MPH"
+        },
+        {
+            "nama": "Ade Tyas Mayasari, S.ST., M.Keb"
+        },
+        {
+            "nama": "Adi Prasandi, SKM., M. Kes"
+        },
+        {
+            "nama": "Afra LatHifah, M.Pd"
+        },
+        {
+            "nama": "Aftulensi Nurhayati, S.Gz., RD., M.P.H"
+        },
+        {
+            "nama": "Agustinus Eko Setiawan, S.Kom., M.Kom"
+        },
+        {
+            "nama": "Ahmad Bayu Satriawan. S.Farm., Apt., M.Farm"
+        },
+        {
+            "nama": "Ahmad Nuruhudin, M.Pd"
+        },
+        {
+            "nama": "Ajeng Mustika Sari,S.Psi.,M.Psi"
+        },
+        {
+            "nama": "Alfina, S.Pd., M.Pd"
+        },
+        {
+            "nama": "Alifiyanti Muharramah, S.Gz., MGz"
+        },
+        {
+            "nama": "Amali Rica Pratiwi,S.Gz., M.Gz"
+        },
+        {
+            "nama": "Amatus Yudi Ismanto, S.Kep., Ners., M.Ke., Sp An., Ph.D"
+        },
+        {
+            "nama": "Amir Syaifurrohman,S.Ag.,M.Pd"
+        },
+        {
+            "nama": "Amrulloh Khusain,M.Kom.I"
+        },
+        {
+            "nama": "Ana Annisa Mutiara, S. Kep., Ners., M. Kes"
+        },
+        {
+            "nama": "Ana Istiani, M.Si"
+        },
+        {
+            "nama": "Andi Mulyono,SE.M.AK"
+        },
+        {
+            "nama": "Andi Susanto, S.Kep., Ners., M.Kep"
+        },
+        {
+            "nama": "Andi Widiono,M.Pd"
+        },
+        {
+            "nama": "Andri Prasetiyo, S.Pd., M.Pd"
+        },
+        {
+            "nama": "Anggi Kusuma, S.Kep., Ners., M.Kep"
+        },
+        {
+            "nama": "Anggie Stiexs, S.Kep., Ners., M.Kep"
+        },
+        {
+            "nama": "Dr. Ani Kristianingsih, S.ST., M.Kes"
+        },
+        {
+            "nama": "Annajim Daskar, S,Farm.M.Farm"
+        },
+        {
+            "nama": "Annida Dahrul, S.Psi.,M.Si"
+        },
+        {
+            "nama": "Annisa Dila Febriyanti, M. Si"
+        },
+        {
+            "nama": "Annisa Syafitri,M.Tr.Keb"
+        },
+        {
+            "nama": "Annisai Rohimah, S. Kep., Ners., M. N. Sc"
+        },
+        {
+            "nama": "apt.Afi Sania Rosanti,S.Si.,M.Farm"
+        },
+        {
+            "nama": "Ardinata, S.Kep., Ners., M.Kep"
+        },
+        {
+            "nama": "Ardiyansyah, S. Farm., Apt., M. Farm"
+        },
+        {
+            "nama": "Arif Alexander Bastian,S.Pd., M.Pd"
+        },
+        {
+            "nama": "Asril HS, S.Kep., M.P.H"
+        },
+        {
+            "nama": "Atika Ulfah,S.Akun.,M.Ak"
+        },
+        {
+            "nama": "Aviv Fitria Yulia, S.Kom., M.T.I"
+        },
+        {
+            "nama": "Ayu Noviana, M.Pd"
+        },
+        {
+            "nama": "Baihaqi,M.Pd"
+        },
+        {
+            "nama": "Bayu Sekar Larasati,S.Psi.M.Psi.Psikolog"
+        },
+        {
+            "nama": "Beniqna Maharani Besmaya, S. ST., M.Tr.Keb"
+        },
+        {
+            "nama": "Bungsudi, Spd., M. Pd"
+        },
+        {
+            "nama": "Celly Devita Febrianti, S.Kep., Ners., MKM"
+        },
+        {
+            "nama": "Cici Gustianingrum, SST., K. Kes"
+        },
+        {
+            "nama": "Cintya Sukma Widita, S.Pd., M.Pd.I"
+        },
+        {
+            "nama": "Cintya Sukma Widita,S.Pd.,M.Pd.I"
+        },
+        {
+            "nama": "Defy Gustianing, S.Pd., M.Pd."
+        },
+        {
+            "nama": "Dera Elva Junita, S.Gz., M.Gz"
+        },
+        {
+            "nama": "Desi Kumalasari, S.ST., M.Kes"
+        },
+        {
+            "nama": "Dessy Nur Safitri, S.Keb., Bd"
+        },
+        {
+            "nama": "Desti Ambar Wati, S.Gz., M.Gz"
+        },
+        {
+            "nama": "Desti Ambar Wati, S.Gz., M.Gz."
+        },
+        {
+            "nama": "Devieka Rhama Dhanny, S.Gz., MKM"
+        },
+        {
+            "nama": "Devieka Rhama Dhanny, S.Gz.,MKM"
+        },
+        {
+            "nama": "Dewi Damayanti,S.Farm.,M.S.Farm"
+        },
+        {
+            "nama": "Diah Kartika Putri,S.Farm.M.Farm"
+        },
+        {
+            "nama": "Dian Arif Wahyudi, S.Kep., Ners., MAN"
+        },
+        {
+            "nama": "Dian Novita,M.Kep.,Sp.KMB"
+        },
+        {
+            "nama": "Didi Suswanto,M.Kes"
+        },
+        {
+            "nama": "Dina Wahida, S.Psi., M.Psi., Psikolog"
+        },
+        {
+            "nama": "Dita Maryani, M. Si"
+        },
+        {
+            "nama": "Dita Septasari,S.Kom., M.Kom"
+        },
+        {
+            "nama": "Dosen Bahasa Indonesia"
+        },
+        {
+            "nama": "Dosen Farmakologi"
+        },
+        {
+            "nama": "Dosen Farmasi Fisika 1"
+        },
+        {
+            "nama": "Dosen Kewarganegaraan"
+        },
+        {
+            "nama": "Dosen Kimia Dasar"
+        },
+        {
+            "nama": "Dosen Kode Etik Psikologi"
+        },
+        {
+            "nama": "Dosen Pancasila"
+        },
+        {
+            "nama": "Dosen Pengantar Akuntansi 1"
+        },
+        {
+            "nama": "Dosen Pengantar Bisnis"
+        },
+        {
+            "nama": "Dosen Pengantar Ekonomi"
+        },
+        {
+            "nama": "Dosen Pengantar Manajemen"
+        },
+        {
+            "nama": "Dosen Psikologi Perkembangan 1"
+        },
+        {
+            "nama": "Dosen Psikologi Umum"
+        },
+        {
+            "nama": "Dosen Sejarah dan Aliran Psikologi"
+        },
+        {
+            "nama": "Doti Mustikasari,SST.,M.Kes"
+        },
+        {
+            "nama": "dr. Afria Tika Ningrum"
+        },
+        {
+            "nama": "dr. Ali Satria, Sp. B"
+        },
+        {
+            "nama": "Dr. Aprina,S.Kep.,M.Kes"
+        },
+        {
+            "nama": "Dr. Elsa Fitri Ana.,S.keb.bd.M.Keb.Trop"
+        },
+        {
+            "nama": "Dr. H. Taufik, Sp.OG"
+        },
+        {
+            "nama": "dr. Hernando"
+        },
+        {
+            "nama": "Dr. Ir. Zulkifli, S.T., M.Kom"
+        },
+        {
+            "nama": "dr. Rika Rahmawati"
+        },
+        {
+            "nama": "dr. Sandra Lusi Novita Batubara, S.Ked., M.M.R"
+        },
+        {
+            "nama": "dr. Satria Dharma Setiawan"
+        },
+        {
+            "nama": "Dr. Si. Agus Wantoro, S.Kom., M.Kom"
+        },
+        {
+            "nama": "Dr. Sri Rahayu, S.SiT., MARS"
+        },
+        {
+            "nama": "dr. Susilo Setiawan, S.Ked., M.M.R"
+        },
+        {
+            "nama": "Dr. Vivian Nanny Lia Dewi, S.ST., M.Kes"
+        },
+        {
+            "nama": "dr. Zahra Puspita"
+        },
+        {
+            "nama": "Dr. Zulfi Wijayanti, S. Si.T., M. Kes"
+        },
+        {
+            "nama": "dr.Swastu Nurul Azizah"
+        },
+        {
+            "nama": "Dwi Feriyanto, S.T., M.Pd"
+        },
+        {
+            "nama": "Dwi Oktarosada, M.Pd."
+        },
+        {
+            "nama": "Dwi Yana Ayu Andini, S.Kom, M.T.I"
+        },
+        {
+            "nama": "Dyah Fitri Mulati,S.Pd., M.Pd"
+        },
+        {
+            "nama": "Edy Syamsuri, SSI., MM., Apt"
+        },
+        {
+            "nama": "Eka NurZanah, M.Acc."
+        },
+        {
+            "nama": "Eka Pratiwi YuniantiS.Pd., M.Pd"
+        },
+        {
+            "nama": "Eka Tri Wulandari, S.ST., M.Keb"
+        },
+        {
+            "nama": "Eko Wardoyo, S.Kep., Ners., M.Kep"
+        },
+        {
+            "nama": "Elsy Juni Andri Kariny,S.ST., M.Keb"
+        },
+        {
+            "nama": "Erna Yanti,S.Farm.,Apt., MPH"
+        },
+        {
+            "nama": "Etanaulia Marsim,S.Tr.Kes.,M.K.M"
+        },
+        {
+            "nama": "Fadillah Ayu SWP, S.Farm., Apt., M.Farm"
+        },
+        {
+            "nama": "Fadlu Rachman,S.Pd., M.Pd"
+        },
+        {
+            "nama": "Fahlul Rizki, S.Kom., M.TI"
+        },
+        {
+            "nama": "Faidzun Jatur Priona, S. Pd., M. Pd"
+        },
+        {
+            "nama": "Fauzan Fuadi,S.Ak.,M.Sc"
+        },
+        {
+            "nama": "Febra Anjar Kusuma, S.Pd.,M.Pd"
+        },
+        {
+            "nama": "Felinda Sari,S.Pd., M.Or"
+        },
+        {
+            "nama": "Fera Noor Maliza, S. Farm., Apt., M. Farm"
+        },
+        {
+            "nama": "Feri Agustriyani, S.Kep., Ners., M.Kep"
+        },
+        {
+            "nama": "Feri Kameliawati, S.Kep., Ners., M.Kep"
+        },
+        {
+            "nama": "Ferly Ardhy,S.Kom.,M.T.I.,MOS"
+        },
+        {
+            "nama": "Fina Aulika Lestari,S.Pd., M.Pd"
+        },
+        {
+            "nama": "Fitra Endi Fernanda.S.Pd,M.Pd"
+        },
+        {
+            "nama": "Fitria Fertha Agustina,S.Ak., M.Acc"
+        },
+        {
+            "nama": "Fitriana, SST., M.Kes"
+        },
+        {
+            "nama": "Fixi Intansari,S.Psi.M.Psi.Psikolog"
+        },
+        {
+            "nama": "Florentinus Yogi Pratama, S. Kep., Ners., M. Kes"
+        },
+        {
+            "nama": "Galih Ramaputra, S.Kom., M.T.I"
+        },
+        {
+            "nama": "Giri Susanto, S.Kep.Ners"
+        },
+        {
+            "nama": "Hafsah Mukaromah, S.Kom, M.Kom"
+        },
+        {
+            "nama": "Hana Zumaedza Ulfa, S.Kep., Ners.,M.Kep"
+        },
+        {
+            "nama": "Hardono,S.Kep., Ners., M.Kep"
+        },
+        {
+            "nama": "Hasni Diana, S. Kep., Ners., M. Kes"
+        },
+        {
+            "nama": "Hellen Febriyanti, S.ST.,M.Kes"
+        },
+        {
+            "nama": "Hendrayani, SST., M. Kes"
+        },
+        {
+            "nama": "Heni Anggraini, SST., M. Kes"
+        },
+        {
+            "nama": "Hikmah Ifayanti, S.Keb., Bd., M.Kes"
+        },
+        {
+            "nama": "Ida Ayu Puspita Sari, S.Kom., M.T.I"
+        },
+        {
+            "nama": "Iga Mayola Pisacha,S.Farm., M.Si"
+        },
+        {
+            "nama": "Iis Tri Utami, S.ST., M.Keb"
+        },
+        {
+            "nama": "Ika Fitria Elmeida"
+        },
+        {
+            "nama": "Ikhwan Amirudin,S.Kep., Ners., M.Kep"
+        },
+        {
+            "nama": "Ikna Awaliyani, S.kom., M.Kom"
+        },
+        {
+            "nama": "Imam bajuri, M.Pd."
+        },
+        {
+            "nama": "Imam Bajuri,S.Pd.,M.Pd"
+        },
+        {
+            "nama": "Imam Subekti, SE.,M.Kes.AAK"
+        },
+        {
+            "nama": "Inggit Primadevi, S.ST.,M.Keb"
+        },
+        {
+            "nama": "Irsan Aras, S. T., M. Kom"
+        },
+        {
+            "nama": "Isbiantoro,S.Si.,Apt"
+        },
+        {
+            "nama": "Jovana Renaldy Gumay, S.Pd., M.Pd"
+        },
+        {
+            "nama": "Juwita Desri Ayu,S.Tr.,M.Keb"
+        },
+        {
+            "nama": "Khaidir Ali, S.T., M.Eng"
+        },
+        {
+            "nama": "Kiki Rizki Amelia, S.Kom. M.T.I"
+        },
+        {
+            "nama": "Komalasari, S.ST., M.Keb"
+        },
+        {
+            "nama": "Lara Ayu Lestari, S.Gz., M.Gz., RD"
+        },
+        {
+            "nama": "Lina Madila Amir,M.Psi.,Psikolog"
+        },
+        {
+            "nama": "Dr. Linda Puspita,S.ST., M.Kes"
+        },
+        {
+            "nama": "Lisma Wardani,S.Pd.I,.M.Pd"
+        },
+        {
+            "nama": "Lusia Asih Wulandari, S. Si. T., M. Kes., Ph. D"
+        },
+        {
+            "nama": "Luthfiana Nurkusuma Ningtyas, S.Gz.,M.Gz"
+        },
+        {
+            "nama": "M. Farhan Al Farisi, S.Kep., Ners., M.Kep"
+        },
+        {
+            "nama": "Mareza Yolanda Umar, S.ST., M.Kes"
+        },
+        {
+            "nama": "Masayu Dian Khairani, M.Gz"
+        },
+        {
+            "nama": "Maulia Isnaini, S.ST."
+        },
+        {
+            "nama": "Mayesty Akhriani,S.Gz.,M.Sc"
+        },
+        {
+            "nama": "Meilia Wigati, S.Psi., M.Psi"
+        },
+        {
+            "nama": "Mesya, S.Kep., Ners., M.Kep"
+        },
+        {
+            "nama": "Meti Kurniawati,S.Gz.M.K.M"
+        },
+        {
+            "nama": "Mida Pratiwi,S.Farm.,Apt.,M.Farm"
+        },
+        {
+            "nama": "Moh Heri Kurinawan, S.Kep., Ners., M.Kep"
+        },
+        {
+            "nama": "Muhammad Lathief Syaifussalam,M.Psi.,Psikolog"
+        },
+        {
+            "nama": "Mutiara Ayu Muthiatulsalimah,  S. Tr. Keb., M. Tr. Keb"
+        },
+        {
+            "nama": "Naufal Sinatria, S.A.B., M.M"
+        },
+        {
+            "nama": "Nila Kurniasih, M.Keb"
+        },
+        {
+            "nama": "Nisa Nurrohmah, S. Pd., M. Pd"
+        },
+        {
+            "nama": "Nita Winda Lestari, S. Farm., M. Farm"
+        },
+        {
+            "nama": "Nopi Anggista Putri,S.ST.,M.Keb"
+        },
+        {
+            "nama": "Novrilia Atika Nabila, S. Farm., Apt., M. Clin. Pharm"
+        },
+        {
+            "nama": "Ns. Zuriati, M.Kep., Ph.D"
+        },
+        {
+            "nama": "Nur Alfi Fauziah, S.ST., M.Tr.Keb"
+        },
+        {
+            "nama": "Nur Aminudin, M.T.I"
+        },
+        {
+            "nama": "Nurhasanah, M.Hum"
+        },
+        {
+            "nama": "Nurhayati, S.Psi., M.Psi., Psikologi"
+        },
+        {
+            "nama": "Nurul Kusuma Hadiyati,M.Kes.,Apt"
+        },
+        {
+            "nama": "Nuryani,S.Si.T., M.Kes"
+        },
+        {
+            "nama": "Nuryanto,S.Farm.,Apt.,M.Kes"
+        },
+        {
+            "nama": "Ockhy Jey Fhiter Wassalam, S.Kom.,M.Kom"
+        },
+        {
+            "nama": "Panji Bintoro,S.Kom. ,M.Cs"
+        },
+        {
+            "nama": "Prisca Anggela S.Farm., Apt., M.Farm"
+        },
+        {
+            "nama": "Psiari Kusuma Wardani, S.ST., M.Kes"
+        },
+        {
+            "nama": "Putri Rahma Alamsyah, S.Gz., M.Si"
+        },
+        {
+            "nama": "Rahmi Khalida, S.Gz.,M.Si"
+        },
+        {
+            "nama": "Raidah Hanifah,S.Psi.,M.Psi"
+        },
+        {
+            "nama": "Ramadhana Komala, S.Gz., M.Si"
+        },
+        {
+            "nama": "Ramadhana Komala, S.Gz., M.Si"
+        },
+        {
+            "nama": "Ratnasari,S.Kom.,M.Kom"
+        },
+        {
+            "nama": "Rendy yudha Pratama, M.Pd"
+        },
+        {
+            "nama": "Rice Hernanda,S.Kep.. Ners., M.Kep"
+        },
+        {
+            "nama": "Rika Agustina,SST.,M.Keb"
+        },
+        {
+            "nama": "Rika Damayanti,M.Kep.,Sp.J"
+        },
+        {
+            "nama": "Rima Wilantika, S.Psi., M.Psikologi"
+        },
+        {
+            "nama": "Rini Palupi,S,.Kep.Ners., M.Kep"
+        },
+        {
+            "nama": "Rini Wahyuni,S.ST., M.Kes."
+        },
+        {
+            "nama": "Riona Sanjaya, S.ST.,M.Keb"
+        },
+        {
+            "nama": "Ririn Wulandari, S.ST., M.PH., Ph.D"
+        },
+        {
+            "nama": "Riska Agi Sawitri,SE., M.Si"
+        },
+        {
+            "nama": "Riska Hediya Putri, S.Kep., Ners.M.Kep"
+        },
+        {
+            "nama": "Riska Nur Suci Ayu, S.ST.M.Gz"
+        },
+        {
+            "nama": "Rita Purnamasari, S.Farm., Apt"
+        },
+        {
+            "nama": "Riyanti,S.Kep.,Ners"
+        },
+        {
+            "nama": "Riza Dwiningrum, S.Si., M.Biomed"
+        },
+        {
+            "nama": "Rizka Dwi Yovita, S.K.M., M.K.M"
+        },
+        {
+            "nama": "Rizki Yeni Wulandari, S.Kep., Ners., M.Kep"
+        },
+        {
+            "nama": "Rully Afrita Herlianty, S.Psi., M.A"
+        },
+        {
+            "nama": "Salman Alfarisi Salimu,S.Pd., M.Kom"
+        },
+        {
+            "nama": "Satria Armanjaya, S.Pd., M.Pd"
+        },
+        {
+            "nama": "Selly Puspitasari,S.Pd.M.AK"
+        },
+        {
+            "nama": "Septika Ariyanti,S.Pd.,M.Pd"
+        },
+        {
+            "nama": "Septika Yani Veronica, S.ST., M.Tr.Keb"
+        },
+        {
+            "nama": "Sigit Andriyanto, nS.Kom., M.T.I"
+        },
+        {
+            "nama": "Siti Maesaroh, S.ST., M.Kes"
+        },
+        {
+            "nama": "Siti Rohani, S.ST., M.Kes"
+        },
+        {
+            "nama": "Siti Saidah, S.Pd.,M.Pd"
+        },
+        {
+            "nama": "Sri Nowo Retno, S. Si. T., M. Kes., Ph.D"
+        },
+        {
+            "nama": "Subni, S. Pd., M. Pd"
+        },
+        {
+            "nama": "Sucia Dwi Nugerahaeni, SST.,M.Kes"
+        },
+        {
+            "nama": "Sugiarto,S.Kep., Ners., M.Kep"
+        },
+        {
+            "nama": "Sugiyanto,M.Kes"
+        },
+        {
+            "nama": "Sukarni, SST., M.Kes"
+        },
+        {
+            "nama": "Sulistia Nur, S.Kep., Ners., M.Kep"
+        },
+        {
+            "nama": "Sunarmi,S.E.,M.A.K"
+        },
+        {
+            "nama": "Surmiasih, S.Kep., Ners., M.Kes"
+        },
+        {
+            "nama": "Sutrisno, S.Kep., Ners., MAN"
+        },
+        {
+            "nama": "Tahta Herdian Andika, S.Kom., M.T.I"
+        },
+        {
+            "nama": "Tias Eka Rahmawati,S.Farm.,M.Farm"
+        },
+        {
+            "nama": "Titi Astuti,M.Keb.,Sp,Mat"
+        },
+        {
+            "nama": "Tri Adi Nugroho, S.Kom., MPH"
+        },
+        {
+            "nama": "UAPDK03092020080190"
+        },
+        {
+            "nama": "Ubaidah, S.T"
+        },
+        {
+            "nama": "Ulfa Ismi Kurnia, S.Pd., M.Pd.T"
+        },
+        {
+            "nama": "Umi Hani Azizah,S.Farm, M. Farm"
+        },
+        {
+            "nama": "Vicko Suswidiantoro, S.Farm.Apt"
+        },
+        {
+            "nama": "Vovi Meidas Setia, M. Kep"
+        },
+        {
+            "nama": "Widya Fadila, SKM.,MKM"
+        },
+        {
+            "nama": "Wike Sri Yohana, SST, M. Kes"
+        },
+        {
+            "nama": "Wina Safutri,S.Si.,M.Biomed"
+        },
+        {
+            "nama": "Winda Afikirtiani, S. Kep., Ners., M. Kep"
+        },
+        {
+            "nama": "Wisnu Probo Wijayanto,S.Kep., Ners., MAN"
+        },
+        {
+            "nama": "Wisnu Sadhana, S.Kep., Ners., MSN., Ph.D"
+        },
+        {
+            "nama": "Witantri Dwi Swandini,SE.,M.Ak"
+        },
+        {
+            "nama": "Wulan Dari. S.ST., M.Tr.Keb"
+        },
+        {
+            "nama": "Yenny Marthalena, S.E., MM"
+        },
+        {
+            "nama": "Yessiana Luthfia Bahri, S.KM., M.KM."
+        },
+        {
+            "nama": "Yetty Dwi Fara, S.ST., M.Tr.Keb"
+        },
+        {
+            "nama": "Yona Desni Sagita, S.ST.,M.Kes"
+        },
+        {
+            "nama": "Yuni sulistiawati, S.ST., M. Tr.Keb"
+        },
+        {
+            "nama": "Yunita Anggriani,S.Tr.Keb.M.Keb"
+        },
+        {
+            "nama": "Yurike Elanda, S. Farm., Apt., M. Farm"
+        },
+        {
+            "nama": "Zaikar,M.Kep"
+        },
+        {
+            "nama": "Zenni Puspitarini, S.Kep,.Ners.M.Kep"
+        },
+        {
+            "nama": "Ziko Fajar Ramadhan,S.Pd., M.Pd"
+        }
     ],
     "admin_prodi": [
-        { "nama": "Achmad Fauzan, A.Md. T", "prodi_diampu": ["S1 Keperawatan"], "nomor_whatsapp": "0895-3206-04056" },
-        { "nama": "Feri Yansah, A.Md. T", "prodi_diampu": ["Profesi Ners"], "nomor_whatsapp": "0877-3076-8822" },
-        { "nama": "Alfazri Putra Pradana, A.Md. T", "prodi_diampu": ["D3 Rekam Medis", "S1 Gizi"], "nomor_whatsapp": "0895-6043-20386" },
-        { "nama": "Angga Setyawan, S.Kom", "prodi_diampu": ["S1 Pendidikan Jasmani", "S1 Pendidikan Bahasa Inggris", "S1 Pendidikan Teknologi Informasi"], "nomor_whatsapp": "0895-4016-35777" },
-        { "nama": "Mudkhi Aji Priyatna, S.Kom", "prodi_diampu": ["S1 Kebidanan", "Profesi Bidan RPL"], "nomor_whatsapp": "0857-8780-9810" },
-        { "nama": "Muhammad Ahsan, S.Kom", "prodi_diampu": ["D4 Anestesiologi"], "nomor_whatsapp": "0877-5919-6458" },
-        { "nama": "Ahmad Ahlun Nazar, S.Kom", "prodi_diampu": ["S1 Teknik Informatika", "S1 Rekayasa Perangkat Lunak"], "nomor_whatsapp": "0822-7888-6363" },
-        { "nama": "Bellanisa Kazari, S.KM", "prodi_diampu": ["S2 Kebidanan", "S2 Keperawatan"], "nomor_whatsapp": "0896-3191-0388" },
-        { "nama": "Dita Septasari S.Kom, M.Kom", "prodi_diampu": ["S1 Kebidanan Konversi"], "nomor_whatsapp": "0857-1914-6557" },
-        { "nama": "Delva Silvia, S.Kom", "prodi_diampu": ["D3 Kebidanan", "Profesi Bidan"], "nomor_whatsapp": "0895-3206-04056" },
-        { "nama": "Lusi Ritmawati", "prodi_diampu": ["S1 Psikologi", "S1 Akuntansi"], "nomor_whatsapp": "0815-4151-5104" },
-        { "nama": "Fatria Yuli Yanti, S.Kom", "prodi_diampu": ["S1 Farmasi"], "nomor_whatsapp": "0831-6902-0444" },
-        { "nama": "Hafsah Mukaromah, S.Kom, M.Kom", "prodi_diampu": ["S1 Teknik Informatika", "S1 Rekayasa Perangkat Lunak"], "nomor_whatsapp": "0852-1494-0796" }
+        {
+            "nama": "Achmad Fauzan, A.Md. T",
+            "prodi_diampu": [
+                "S1 Keperawatan"
+            ],
+            "nomor_whatsapp": "0895-3206-04056"
+        },
+        {
+            "nama": "Feri Yansah, A.Md. T",
+            "prodi_diampu": [
+                "Profesi Ners"
+            ],
+            "nomor_whatsapp": "0877-3076-8822"
+        },
+        {
+            "nama": "Alfazri Putra Pradana, A.Md. T",
+            "prodi_diampu": [
+                "D3 Rekam Medis",
+                "S1 Gizi"
+            ],
+            "nomor_whatsapp": "0895-6043-20386"
+        },
+        {
+            "nama": "Angga Setyawan, S.Kom",
+            "prodi_diampu": [
+                "S1 Pendidikan Jasmani",
+                "S1 Pendidikan Bahasa Inggris",
+                "S1 Pendidikan Teknologi Informasi"
+            ],
+            "nomor_whatsapp": "0895-4016-35777"
+        },
+        {
+            "nama": "Mudkhi Aji Priyatna, S.Kom",
+            "prodi_diampu": [
+                "S1 Kebidanan",
+                "Profesi Bidan RPL"
+            ],
+            "nomor_whatsapp": "0857-8780-9810"
+        },
+        {
+            "nama": "Muhammad Ahsan, S.Kom",
+            "prodi_diampu": [
+                "D4 Anestesiologi"
+            ],
+            "nomor_whatsapp": "0877-5919-6458"
+        },
+        {
+            "nama": "Ahmad Ahlun Nazar, S.Kom",
+            "prodi_diampu": [
+                "S1 Teknik Informatika",
+                "S1 Rekayasa Perangkat Lunak"
+            ],
+            "nomor_whatsapp": "0822-7888-6363"
+        },
+        {
+            "nama": "Bellanisa Kazari, S.KM",
+            "prodi_diampu": [
+                "S2 Kebidanan",
+                "S2 Keperawatan"
+            ],
+            "nomor_whatsapp": "0896-3191-0388"
+        },
+        {
+            "nama": "Dita Septasari S.Kom, M.Kom",
+            "prodi_diampu": [
+                "S1 Kebidanan Konversi"
+            ],
+            "nomor_whatsapp": "0857-1914-6557"
+        },
+        {
+            "nama": "Delva Silvia, S.Kom",
+            "prodi_diampu": [
+                "D3 Kebidanan",
+                "Profesi Bidan"
+            ],
+            "nomor_whatsapp": "0895-3206-04056"
+        },
+        {
+            "nama": "Lusi Ritmawati",
+            "prodi_diampu": [
+                "S1 Psikologi",
+                "S1 Akuntansi"
+            ],
+            "nomor_whatsapp": "0815-4151-5104"
+        },
+        {
+            "nama": "Fatria Yuli Yanti, S.Kom",
+            "prodi_diampu": [
+                "S1 Farmasi"
+            ],
+            "nomor_whatsapp": "0831-6902-0444"
+        },
+        {
+            "nama": "Hafsah Mukaromah, S.Kom, M.Kom",
+            "prodi_diampu": [
+                "S1 Teknik Informatika",
+                "S1 Rekayasa Perangkat Lunak"
+            ],
+            "nomor_whatsapp": "0852-1494-0796"
+        }
     ],
     "fakultas": [
         {
@@ -219,34 +1081,106 @@
                 "Terwujudnya kerjasama yang saling mendukung dalam kegiatan tri dharma baik tingkat nasional maupun international."
             ],
             "program_studi": [
-                { "prodi": "Gizi", "jenjang": "S1", "akreditasi": "Unggul " },
-                { "prodi": "Farmasi", "jenjang": "S1", "akreditasi": "Baik Sekali " },
-                { "prodi": "Keperawatan", "jenjang": "S1", "akreditasi": "Baik Sekali " },
-                { "prodi": "Kebidanan", "jenjang": "S1", "akreditasi": "Baik Sekali " },
-                { "prodi": "Keperawatan Anestesiologi", "jenjang": "D4", "akreditasi": null },
-                { "prodi": "Kebidanan", "jenjang": "D3", "akreditasi": "Unggul " },
-                { "prodi": "Pendidikan Profesi Ners", "jenjang": "Profesi", "akreditasi": "Baik Sekali " },
-                { "prodi": "Pendidikan Profesi Bidan", "jenjang": "Profesi", "akreditasi": "Baik Sekali " },
-                { "prodi": "Profesi Dietisien", "jenjang": "Profesi", "akreditasi": null },
-                { "prodi": "Keperawatan", "jenjang": "S2", "akreditasi": null },
-                { "prodi": "Kebidanan", "jenjang": "S2", "akreditasi": "Baik Sekali " },
-                { "prodi": "Gizi Konversi", "jenjang": "S1", "akreditasi": null },
-                { "prodi": "Keperawatan Konversi", "jenjang": "S1", "akreditasi": null },
-                { "prodi": "Rekam Medis dan Informasi Kesehatan", "jenjang": "D3", "akreditasi": "Baik " }
+                {
+                    "prodi": "Gizi",
+                    "jenjang": "S1",
+                    "akreditasi": "Unggul "
+                },
+                {
+                    "prodi": "Farmasi",
+                    "jenjang": "S1",
+                    "akreditasi": "Baik Sekali "
+                },
+                {
+                    "prodi": "Keperawatan",
+                    "jenjang": "S1",
+                    "akreditasi": "Baik Sekali "
+                },
+                {
+                    "prodi": "Kebidanan",
+                    "jenjang": "S1",
+                    "akreditasi": "Baik Sekali "
+                },
+                {
+                    "prodi": "Keperawatan Anestesiologi",
+                    "jenjang": "D4",
+                    "akreditasi": null
+                },
+                {
+                    "prodi": "Kebidanan",
+                    "jenjang": "D3",
+                    "akreditasi": "Unggul "
+                },
+                {
+                    "prodi": "Pendidikan Profesi Ners",
+                    "jenjang": "Profesi",
+                    "akreditasi": "Baik Sekali "
+                },
+                {
+                    "prodi": "Pendidikan Profesi Bidan",
+                    "jenjang": "Profesi",
+                    "akreditasi": "Baik Sekali "
+                },
+                {
+                    "prodi": "Profesi Dietisien",
+                    "jenjang": "Profesi",
+                    "akreditasi": null
+                },
+                {
+                    "prodi": "Keperawatan",
+                    "jenjang": "S2",
+                    "akreditasi": null
+                },
+                {
+                    "prodi": "Kebidanan",
+                    "jenjang": "S2",
+                    "akreditasi": "Baik Sekali "
+                },
+                {
+                    "prodi": "Gizi Konversi",
+                    "jenjang": "S1",
+                    "akreditasi": null
+                },
+                {
+                    "prodi": "Keperawatan Konversi",
+                    "jenjang": "S1",
+                    "akreditasi": null
+                },
+                {
+                    "prodi": "Rekam Medis dan Informasi Kesehatan",
+                    "jenjang": "D3",
+                    "akreditasi": "Baik "
+                }
             ]
         },
         {
             "nama": "Fakultas Teknologi dan Informatika (FTI)",
             "program_studi": [
-                { "prodi": "Teknik Informatika", "jenjang": "S1", "akreditasi": "Baik Sekali" },
-                { "prodi": "Rekayasa Perangkat Lunak", "jenjang": "S1", "akreditasi": "Baik Sekali" }
+                {
+                    "prodi": "Teknik Informatika",
+                    "jenjang": "S1",
+                    "akreditasi": "Baik Sekali"
+                },
+                {
+                    "prodi": "Rekayasa Perangkat Lunak",
+                    "jenjang": "S1",
+                    "akreditasi": "Baik Sekali"
+                }
             ]
         },
         {
             "nama": "Fakultas Kedokteran (FK)",
             "program_studi": [
-                { "prodi": "Pendidikan Profesi Dokter", "jenjang": "Profesi", "akreditasi": "Baik" },
-                { "prodi": "Kedokteran", "jenjang": "S1", "akreditasi": "Baik" }
+                {
+                    "prodi": "Pendidikan Profesi Dokter",
+                    "jenjang": "Profesi",
+                    "akreditasi": "Baik"
+                },
+                {
+                    "prodi": "Kedokteran",
+                    "jenjang": "S1",
+                    "akreditasi": "Baik"
+                }
             ]
         },
         {
@@ -259,8 +1193,16 @@
                 "Membangun mitra kerja sama dan menyelenggarakan program kerja sama baik nasional maupun international dengan prinsip saling memberi kebermanfaatan dan kemajuan bersama."
             ],
             "program_studi": [
-                { "prodi": "Akuntansi", "jenjang": "S1", "akreditasi": "Baik " },
-                { "prodi": "Psikologi", "jenjang": "S1", "akreditasi": "Baik " }
+                {
+                    "prodi": "Akuntansi",
+                    "jenjang": "S1",
+                    "akreditasi": "Baik "
+                },
+                {
+                    "prodi": "Psikologi",
+                    "jenjang": "S1",
+                    "akreditasi": "Baik "
+                }
             ]
         },
         {
@@ -285,9 +1227,21 @@
                 "Terwujudnya kerja sama yang saling mendukung dalam pelaksanaan kegiatan Tridharma Perguruan Tinggi, baik di tingkat nasional maupun internasional."
             ],
             "program_studi": [
-                { "prodi": "Pendidikan Bahasa Inggris", "jenjang": "S1", "akreditasi": "Baik " },
-                { "prodi": "Pendidikan Teknologi Informasi", "jenjang": "S1", "akreditasi": "Baik " },
-                { "prodi": "Pendidikan Jasmani", "jenjang": "S1", "akreditasi": "Baik " }
+                {
+                    "prodi": "Pendidikan Bahasa Inggris",
+                    "jenjang": "S1",
+                    "akreditasi": "Baik "
+                },
+                {
+                    "prodi": "Pendidikan Teknologi Informasi",
+                    "jenjang": "S1",
+                    "akreditasi": "Baik "
+                },
+                {
+                    "prodi": "Pendidikan Jasmani",
+                    "jenjang": "S1",
+                    "akreditasi": "Baik "
+                }
             ]
         }
     ],
@@ -298,11 +1252,31 @@
             "biaya_masuk": "Rp 4.950.000",
             "biaya_semester_1": "Rp 3.500.000",
             "diskon_masuk": [
-                { "bulan": "Januari", "persen": "50%", "nominal": "Rp 2.375.000" },
-                { "bulan": "Februari", "persen": "40%", "nominal": "Rp 2.850.000" },
-                { "bulan": "Maret", "persen": "30%", "nominal": "Rp 3.325.000" },
-                { "bulan": "April", "persen": "20%", "nominal": "Rp 3.800.000" },
-                { "bulan": "Mei", "persen": "10%", "nominal": "Rp 4.275.000" }
+                {
+                    "bulan": "Januari",
+                    "persen": "50%",
+                    "nominal": "Rp 2.375.000"
+                },
+                {
+                    "bulan": "Februari",
+                    "persen": "40%",
+                    "nominal": "Rp 2.850.000"
+                },
+                {
+                    "bulan": "Maret",
+                    "persen": "30%",
+                    "nominal": "Rp 3.325.000"
+                },
+                {
+                    "bulan": "April",
+                    "persen": "20%",
+                    "nominal": "Rp 3.800.000"
+                },
+                {
+                    "bulan": "Mei",
+                    "persen": "10%",
+                    "nominal": "Rp 4.275.000"
+                }
             ],
             "keterangan": "Bisa dicicil atau dibayarkan 2x dalam 1 semester"
         },
@@ -312,11 +1286,31 @@
             "biaya_masuk": "Rp 5.100.000",
             "biaya_semester_1": "Rp 3.500.000",
             "diskon_masuk": [
-                { "bulan": "Januari", "persen": "50%", "nominal": "Rp 2.500.000" },
-                { "bulan": "Februari", "persen": "40%", "nominal": "Rp 3.000.000" },
-                { "bulan": "Maret", "persen": "30%", "nominal": "Rp 3.500.000" },
-                { "bulan": "April", "persen": "20%", "nominal": "Rp 4.000.000" },
-                { "bulan": "Mei", "persen": "10%", "nominal": "Rp 4.500.000" }
+                {
+                    "bulan": "Januari",
+                    "persen": "50%",
+                    "nominal": "Rp 2.500.000"
+                },
+                {
+                    "bulan": "Februari",
+                    "persen": "40%",
+                    "nominal": "Rp 3.000.000"
+                },
+                {
+                    "bulan": "Maret",
+                    "persen": "30%",
+                    "nominal": "Rp 3.500.000"
+                },
+                {
+                    "bulan": "April",
+                    "persen": "20%",
+                    "nominal": "Rp 4.000.000"
+                },
+                {
+                    "bulan": "Mei",
+                    "persen": "10%",
+                    "nominal": "Rp 4.500.000"
+                }
             ],
             "keterangan": "Bisa dicicil atau dibayarkan 2x dalam 1 semester"
         },
@@ -326,11 +1320,31 @@
             "biaya_masuk": "Rp 4.000.000",
             "biaya_semester_1": "Rp 3.450.000",
             "diskon_masuk": [
-                { "bulan": "Januari", "persen": "50%", "nominal": "Rp 2.000.000" },
-                { "bulan": "Februari", "persen": "40%", "nominal": "Rp 2.400.000" },
-                { "bulan": "Maret", "persen": "30%", "nominal": "Rp 2.800.000" },
-                { "bulan": "April", "persen": "20%", "nominal": "Rp 3.200.000" },
-                { "bulan": "Mei", "persen": "10%", "nominal": "Rp 3.600.000" }
+                {
+                    "bulan": "Januari",
+                    "persen": "50%",
+                    "nominal": "Rp 2.000.000"
+                },
+                {
+                    "bulan": "Februari",
+                    "persen": "40%",
+                    "nominal": "Rp 2.400.000"
+                },
+                {
+                    "bulan": "Maret",
+                    "persen": "30%",
+                    "nominal": "Rp 2.800.000"
+                },
+                {
+                    "bulan": "April",
+                    "persen": "20%",
+                    "nominal": "Rp 3.200.000"
+                },
+                {
+                    "bulan": "Mei",
+                    "persen": "10%",
+                    "nominal": "Rp 3.600.000"
+                }
             ],
             "keterangan": "Bisa dicicil atau dibayarkan 2x dalam 1 semester"
         },
@@ -341,11 +1355,31 @@
             "biaya_masuk": "Rp 14.800.000",
             "biaya_semester_1": "Rp 6.700.000",
             "diskon_masuk": [
-                { "bulan": "Januari", "persen": "50%", "nominal": "Rp 7.300.000" },
-                { "bulan": "Februari", "persen": "40%", "nominal": "Rp 8.760.000" },
-                { "bulan": "Maret", "persen": "30%", "nominal": "Rp 10.220.000" },
-                { "bulan": "April", "persen": "20%", "nominal": "Rp 11.680.000" },
-                { "bulan": "Mei", "persen": "10%", "nominal": "Rp 13.140.000" }
+                {
+                    "bulan": "Januari",
+                    "persen": "50%",
+                    "nominal": "Rp 7.300.000"
+                },
+                {
+                    "bulan": "Februari",
+                    "persen": "40%",
+                    "nominal": "Rp 8.760.000"
+                },
+                {
+                    "bulan": "Maret",
+                    "persen": "30%",
+                    "nominal": "Rp 10.220.000"
+                },
+                {
+                    "bulan": "April",
+                    "persen": "20%",
+                    "nominal": "Rp 11.680.000"
+                },
+                {
+                    "bulan": "Mei",
+                    "persen": "10%",
+                    "nominal": "Rp 13.140.000"
+                }
             ],
             "keterangan": "Bisa dicicil atau dibayarkan 2x dalam 1 semester"
         },
@@ -355,11 +1389,31 @@
             "biaya_masuk": "Rp 8.850.000",
             "biaya_semester_1": "Rp 7.825.000",
             "diskon_masuk": [
-                { "bulan": "Januari", "persen": "50%", "nominal": "Rp 4.425.000" },
-                { "bulan": "Februari", "persen": "40%", "nominal": "Rp 5.310.000" },
-                { "bulan": "Maret", "persen": "30%", "nominal": "Rp 6.195.000" },
-                { "bulan": "April", "persen": "20%", "nominal": "Rp 7.080.000" },
-                { "bulan": "Mei", "persen": "10%", "nominal": "Rp 7.965.000" }
+                {
+                    "bulan": "Januari",
+                    "persen": "50%",
+                    "nominal": "Rp 4.425.000"
+                },
+                {
+                    "bulan": "Februari",
+                    "persen": "40%",
+                    "nominal": "Rp 5.310.000"
+                },
+                {
+                    "bulan": "Maret",
+                    "persen": "30%",
+                    "nominal": "Rp 6.195.000"
+                },
+                {
+                    "bulan": "April",
+                    "persen": "20%",
+                    "nominal": "Rp 7.080.000"
+                },
+                {
+                    "bulan": "Mei",
+                    "persen": "10%",
+                    "nominal": "Rp 7.965.000"
+                }
             ],
             "keterangan": "Bisa dicicil atau dibayarkan 2x dalam 1 semester"
         },
@@ -369,11 +1423,31 @@
             "biaya_masuk": "Rp 8.850.000",
             "biaya_semester_1": "Rp 7.825.000",
             "diskon_masuk": [
-                { "bulan": "Januari", "persen": "50%", "nominal": "Rp 4.425.000" },
-                { "bulan": "Februari", "persen": "40%", "nominal": "Rp 5.310.000" },
-                { "bulan": "Maret", "persen": "30%", "nominal": "Rp 6.195.000" },
-                { "bulan": "April", "persen": "20%", "nominal": "Rp 7.080.000" },
-                { "bulan": "Mei", "persen": "10%", "nominal": "Rp 7.965.000" }
+                {
+                    "bulan": "Januari",
+                    "persen": "50%",
+                    "nominal": "Rp 4.425.000"
+                },
+                {
+                    "bulan": "Februari",
+                    "persen": "40%",
+                    "nominal": "Rp 5.310.000"
+                },
+                {
+                    "bulan": "Maret",
+                    "persen": "30%",
+                    "nominal": "Rp 6.195.000"
+                },
+                {
+                    "bulan": "April",
+                    "persen": "20%",
+                    "nominal": "Rp 7.080.000"
+                },
+                {
+                    "bulan": "Mei",
+                    "persen": "10%",
+                    "nominal": "Rp 7.965.000"
+                }
             ],
             "keterangan": "Bisa dicicil atau dibayarkan 2x dalam 1 semester"
         },
@@ -408,11 +1482,31 @@
             "biaya_masuk": "Rp 15.750.000",
             "biaya_semester_1": "Rp 6.950.000",
             "diskon_masuk": [
-                { "bulan": "Januari", "persen": "50%", "nominal": "Rp 7.375.000" },
-                { "bulan": "Februari", "persen": "40%", "nominal": "Rp 8.850.000" },
-                { "bulan": "Maret", "persen": "30%", "nominal": "Rp 10.325.000" },
-                { "bulan": "April", "persen": "20%", "nominal": "Rp 11.800.000" },
-                { "bulan": "Mei", "persen": "10%", "nominal": "Rp 13.275.000" }
+                {
+                    "bulan": "Januari",
+                    "persen": "50%",
+                    "nominal": "Rp 7.375.000"
+                },
+                {
+                    "bulan": "Februari",
+                    "persen": "40%",
+                    "nominal": "Rp 8.850.000"
+                },
+                {
+                    "bulan": "Maret",
+                    "persen": "30%",
+                    "nominal": "Rp 10.325.000"
+                },
+                {
+                    "bulan": "April",
+                    "persen": "20%",
+                    "nominal": "Rp 11.800.000"
+                },
+                {
+                    "bulan": "Mei",
+                    "persen": "10%",
+                    "nominal": "Rp 13.275.000"
+                }
             ],
             "keterangan": "Bisa dicicil atau dibayarkan 2x dalam 1 semester"
         },
@@ -423,11 +1517,31 @@
             "biaya_masuk": "Rp 19.300.000",
             "biaya_semester_1": "Rp 8.100.000",
             "diskon_masuk": [
-                { "bulan": "Januari", "persen": "50%", "nominal": "Rp 9.550.000" },
-                { "bulan": "Februari", "persen": "40%", "nominal": "Rp 11.460.000" },
-                { "bulan": "Maret", "persen": "30%", "nominal": "Rp 13.370.000" },
-                { "bulan": "April", "persen": "20%", "nominal": "Rp 15.280.000" },
-                { "bulan": "Mei", "persen": "10%", "nominal": "Rp 17.190.000" }
+                {
+                    "bulan": "Januari",
+                    "persen": "50%",
+                    "nominal": "Rp 9.550.000"
+                },
+                {
+                    "bulan": "Februari",
+                    "persen": "40%",
+                    "nominal": "Rp 11.460.000"
+                },
+                {
+                    "bulan": "Maret",
+                    "persen": "30%",
+                    "nominal": "Rp 13.370.000"
+                },
+                {
+                    "bulan": "April",
+                    "persen": "20%",
+                    "nominal": "Rp 15.280.000"
+                },
+                {
+                    "bulan": "Mei",
+                    "persen": "10%",
+                    "nominal": "Rp 17.190.000"
+                }
             ],
             "keterangan": "Bisa dicicil atau dibayarkan 2x dalam 1 semester"
         },
@@ -438,11 +1552,31 @@
             "biaya_masuk": "Rp 17.250.000",
             "biaya_semester_1": "Rp 8.500.000",
             "diskon_masuk": [
-                { "bulan": "Januari", "persen": "50%", "nominal": "Rp 8.625.000" },
-                { "bulan": "Februari", "persen": "40%", "nominal": "Rp 10.350.000" },
-                { "bulan": "Maret", "persen": "30%", "nominal": "Rp 12.075.000" },
-                { "bulan": "April", "persen": "20%", "nominal": "Rp 13.800.000" },
-                { "bulan": "Mei", "persen": "10%", "nominal": "Rp 15.525.000" }
+                {
+                    "bulan": "Januari",
+                    "persen": "50%",
+                    "nominal": "Rp 8.625.000"
+                },
+                {
+                    "bulan": "Februari",
+                    "persen": "40%",
+                    "nominal": "Rp 10.350.000"
+                },
+                {
+                    "bulan": "Maret",
+                    "persen": "30%",
+                    "nominal": "Rp 12.075.000"
+                },
+                {
+                    "bulan": "April",
+                    "persen": "20%",
+                    "nominal": "Rp 13.800.000"
+                },
+                {
+                    "bulan": "Mei",
+                    "persen": "10%",
+                    "nominal": "Rp 15.525.000"
+                }
             ],
             "keterangan": "Bisa dicicil atau dibayarkan 2x dalam 1 semester"
         },
@@ -452,11 +1586,31 @@
             "biaya_masuk": "Rp 12.750.000",
             "biaya_semester_1": "Rp 4.350.000",
             "diskon_masuk": [
-                { "bulan": "Januari", "persen": "50%", "nominal": "Rp 6.375.000" },
-                { "bulan": "Februari", "persen": "40%", "nominal": "Rp 7.650.000" },
-                { "bulan": "Maret", "persen": "30%", "nominal": "Rp 8.925.000" },
-                { "bulan": "April", "persen": "20%", "nominal": "Rp 10.200.000" },
-                { "bulan": "Mei", "persen": "10%", "nominal": "Rp 11.475.000" }
+                {
+                    "bulan": "Januari",
+                    "persen": "50%",
+                    "nominal": "Rp 6.375.000"
+                },
+                {
+                    "bulan": "Februari",
+                    "persen": "40%",
+                    "nominal": "Rp 7.650.000"
+                },
+                {
+                    "bulan": "Maret",
+                    "persen": "30%",
+                    "nominal": "Rp 8.925.000"
+                },
+                {
+                    "bulan": "April",
+                    "persen": "20%",
+                    "nominal": "Rp 10.200.000"
+                },
+                {
+                    "bulan": "Mei",
+                    "persen": "10%",
+                    "nominal": "Rp 11.475.000"
+                }
             ],
             "keterangan": "Bisa dicicil atau dibayarkan 2x dalam 1 semester"
         },
@@ -466,11 +1620,31 @@
             "biaya_masuk": "Rp 5.600.000",
             "biaya_semester_1": "Rp 3.600.000",
             "diskon_masuk": [
-                { "bulan": "Januari", "persen": "50%", "nominal": "Rp 2.800.000" },
-                { "bulan": "Februari", "persen": "40%", "nominal": "Rp 3.360.000" },
-                { "bulan": "Maret", "persen": "30%", "nominal": "Rp 3.920.000" },
-                { "bulan": "April", "persen": "20%", "nominal": "Rp 4.480.000" },
-                { "bulan": "Mei", "persen": "10%", "nominal": "Rp 5.040.000" }
+                {
+                    "bulan": "Januari",
+                    "persen": "50%",
+                    "nominal": "Rp 2.800.000"
+                },
+                {
+                    "bulan": "Februari",
+                    "persen": "40%",
+                    "nominal": "Rp 3.360.000"
+                },
+                {
+                    "bulan": "Maret",
+                    "persen": "30%",
+                    "nominal": "Rp 3.920.000"
+                },
+                {
+                    "bulan": "April",
+                    "persen": "20%",
+                    "nominal": "Rp 4.480.000"
+                },
+                {
+                    "bulan": "Mei",
+                    "persen": "10%",
+                    "nominal": "Rp 5.040.000"
+                }
             ],
             "keterangan": "Bisa dicicil atau dibayarkan 2x dalam 1 semester"
         },
@@ -480,11 +1654,31 @@
             "biaya_masuk": "Rp 5.100.000",
             "biaya_semester_1": "Rp 3.500.000",
             "diskon_masuk": [
-                { "bulan": "Januari", "persen": "50%", "nominal": "Rp 2.550.000" },
-                { "bulan": "Februari", "persen": "40%", "nominal": "Rp 3.060.000" },
-                { "bulan": "Maret", "persen": "30%", "nominal": "Rp 3.570.000" },
-                { "bulan": "April", "persen": "20%", "nominal": "Rp 4.080.000" },
-                { "bulan": "Mei", "persen": "10%", "nominal": "Rp 4.590.000" }
+                {
+                    "bulan": "Januari",
+                    "persen": "50%",
+                    "nominal": "Rp 2.550.000"
+                },
+                {
+                    "bulan": "Februari",
+                    "persen": "40%",
+                    "nominal": "Rp 3.060.000"
+                },
+                {
+                    "bulan": "Maret",
+                    "persen": "30%",
+                    "nominal": "Rp 3.570.000"
+                },
+                {
+                    "bulan": "April",
+                    "persen": "20%",
+                    "nominal": "Rp 4.080.000"
+                },
+                {
+                    "bulan": "Mei",
+                    "persen": "10%",
+                    "nominal": "Rp 4.590.000"
+                }
             ],
             "keterangan": "Bisa dicicil atau dibayarkan 2x dalam 1 semester"
         },
@@ -494,11 +1688,31 @@
             "biaya_masuk": "Rp 4.500.000",
             "biaya_semester_1": "Rp 3.450.000",
             "diskon_masuk": [
-                { "bulan": "Januari", "persen": "50%", "nominal": "Rp 2.250.000" },
-                { "bulan": "Februari", "persen": "40%", "nominal": "Rp 2.700.000" },
-                { "bulan": "Maret", "persen": "30%", "nominal": "Rp 3.150.000" },
-                { "bulan": "April", "persen": "20%", "nominal": "Rp 3.600.000" },
-                { "bulan": "Mei", "persen": "10%", "nominal": "Rp 4.050.000" }
+                {
+                    "bulan": "Januari",
+                    "persen": "50%",
+                    "nominal": "Rp 2.250.000"
+                },
+                {
+                    "bulan": "Februari",
+                    "persen": "40%",
+                    "nominal": "Rp 2.700.000"
+                },
+                {
+                    "bulan": "Maret",
+                    "persen": "30%",
+                    "nominal": "Rp 3.150.000"
+                },
+                {
+                    "bulan": "April",
+                    "persen": "20%",
+                    "nominal": "Rp 3.600.000"
+                },
+                {
+                    "bulan": "Mei",
+                    "persen": "10%",
+                    "nominal": "Rp 4.050.000"
+                }
             ],
             "keterangan": "Bisa dicicil atau dibayarkan 2x dalam 1 semester"
         },
@@ -508,11 +1722,31 @@
             "biaya_masuk": "Rp 5.025.000",
             "biaya_semester_1": "Rp 3.975.000",
             "diskon_masuk": [
-                { "bulan": "Januari", "persen": "50%", "nominal": "Rp 2.512.500" },
-                { "bulan": "Februari", "persen": "40%", "nominal": "Rp 3.015.000" },
-                { "bulan": "Maret", "persen": "30%", "nominal": "Rp 3.517.500" },
-                { "bulan": "April", "persen": "20%", "nominal": "Rp 4.020.000" },
-                { "bulan": "Mei", "persen": "10%", "nominal": "Rp 4.522.500" }
+                {
+                    "bulan": "Januari",
+                    "persen": "50%",
+                    "nominal": "Rp 2.512.500"
+                },
+                {
+                    "bulan": "Februari",
+                    "persen": "40%",
+                    "nominal": "Rp 3.015.000"
+                },
+                {
+                    "bulan": "Maret",
+                    "persen": "30%",
+                    "nominal": "Rp 3.517.500"
+                },
+                {
+                    "bulan": "April",
+                    "persen": "20%",
+                    "nominal": "Rp 4.020.000"
+                },
+                {
+                    "bulan": "Mei",
+                    "persen": "10%",
+                    "nominal": "Rp 4.522.500"
+                }
             ],
             "keterangan": "Bisa dicicil atau dibayarkan 2x dalam 1 semester"
         },
@@ -563,11 +1797,31 @@
             "biaya_masuk": "Rp 12.100.000",
             "biaya_semester_1": "Rp 4.700.000",
             "diskon_masuk": [
-                { "bulan": "Januari", "persen": "50%", "nominal": "Rp 6.050.000" },
-                { "bulan": "Februari", "persen": "40%", "nominal": "Rp 7.260.000" },
-                { "bulan": "Maret", "persen": "30%", "nominal": "Rp 8.470.000" },
-                { "bulan": "April", "persen": "20%", "nominal": "Rp 9.680.000" },
-                { "bulan": "Mei", "persen": "10%", "nominal": "Rp 10.890.000" }
+                {
+                    "bulan": "Januari",
+                    "persen": "50%",
+                    "nominal": "Rp 6.050.000"
+                },
+                {
+                    "bulan": "Februari",
+                    "persen": "40%",
+                    "nominal": "Rp 7.260.000"
+                },
+                {
+                    "bulan": "Maret",
+                    "persen": "30%",
+                    "nominal": "Rp 8.470.000"
+                },
+                {
+                    "bulan": "April",
+                    "persen": "20%",
+                    "nominal": "Rp 9.680.000"
+                },
+                {
+                    "bulan": "Mei",
+                    "persen": "10%",
+                    "nominal": "Rp 10.890.000"
+                }
             ],
             "keterangan": "Bisa dicicil atau dibayarkan 2x dalam 1 semester"
         },
@@ -578,45 +1832,128 @@
             "biaya_masuk": "Rp 7.750.000",
             "biaya_semester_1": "Rp 3.200.000",
             "diskon_masuk": [
-                { "bulan": "Januari", "persen": "50%", "nominal": "Rp 3.875.000" },
-                { "bulan": "Februari", "persen": "40%", "nominal": "Rp 4.650.000" },
-                { "bulan": "Maret", "persen": "30%", "nominal": "Rp 5.425.000" },
-                { "bulan": "April", "persen": "20%", "nominal": "Rp 6.200.000" },
-                { "bulan": "Mei", "persen": "10%", "nominal": "Rp 6.975.000" }
+                {
+                    "bulan": "Januari",
+                    "persen": "50%",
+                    "nominal": "Rp 3.875.000"
+                },
+                {
+                    "bulan": "Februari",
+                    "persen": "40%",
+                    "nominal": "Rp 4.650.000"
+                },
+                {
+                    "bulan": "Maret",
+                    "persen": "30%",
+                    "nominal": "Rp 5.425.000"
+                },
+                {
+                    "bulan": "April",
+                    "persen": "20%",
+                    "nominal": "Rp 6.200.000"
+                },
+                {
+                    "bulan": "Mei",
+                    "persen": "10%",
+                    "nominal": "Rp 6.975.000"
+                }
             ],
             "keterangan": "Bisa dicicil atau dibayarkan 2x dalam 1 semester"
         }
     ],
     "unit_kerja": [
-        { "nama_unit": "Lembaga Penjaminan Mutu Internal", "kepala": "Maulia Isnaini, S.ST., M.Keb" },
-        { "nama_unit": "Lembaga Pusat Data dan Informasi", "kepala": "Ratnasari, S.KOM., M.KOM" },
-        { "nama_unit": "Lembaga Keislaman", "kepala": "Amir Syaifurrohman, S.Ag., M.Pd" },
-        { "nama_unit": "Biro Penelitian Dan Pengabdian Masyarakat", "kepala": "Hikmah Ifayanti, S.Keb., Bd., M.Kes" },
-        { "nama_unit": "Perpustakaan", "kepala": "Aminudin, S.I.Pust" },
-        { "nama_unit": "Laboratorium", "kepala": "Ade Tyas Mayasari, S.ST., M.Keb" },
-        { "nama_unit": "Biro Kebersihan, Keamanan, & Kerumahtanggan (K3)", "kepala": "Ningsiah, S.KOM" },
-        { "nama_unit": "Biro Administrasi", "kepala": "Panji Bintoro, S.KOM., M.Cs" },
-        { "nama_unit": "Biro Kepegawaian", "kepala": "Ravita Irdiyani, S.Pd" },
-        { "nama_unit": "Biro Keuangan", "kepala": "Puspita Ayu Lestari, S.E" },
-        { "nama_unit": "Biro Aisyah Carier Development Center", "kepala": "Septika Yani Veronica, Bdn., M.Tr.KeB" },
-        { "nama_unit": "Biro Kemahasiswaan", "kepala": "Ali Dwi Laksha, A.Md.T" },
-        { "nama_unit": "Biro Kemahasiswaan", "kepala": "Dodi Setiawan, A.Md.Kom" }
+        {
+            "nama_unit": "Lembaga Penjaminan Mutu Internal",
+            "kepala": "Maulia Isnaini, S.ST., M.Keb"
+        },
+        {
+            "nama_unit": "Lembaga Pusat Data dan Informasi",
+            "kepala": "Ratnasari, S.KOM., M.KOM"
+        },
+        {
+            "nama_unit": "Lembaga Keislaman",
+            "kepala": "Amir Syaifurrohman, S.Ag., M.Pd"
+        },
+        {
+            "nama_unit": "Biro Penelitian Dan Pengabdian Masyarakat",
+            "kepala": "Hikmah Ifayanti, S.Keb., Bd., M.Kes"
+        },
+        {
+            "nama_unit": "Perpustakaan",
+            "kepala": "Aminudin, S.I.Pust"
+        },
+        {
+            "nama_unit": "Laboratorium",
+            "kepala": "Ade Tyas Mayasari, S.ST., M.Keb"
+        },
+        {
+            "nama_unit": "Biro Kebersihan, Keamanan, & Kerumahtanggan (K3)",
+            "kepala": "Ningsiah, S.KOM"
+        },
+        {
+            "nama_unit": "Biro Administrasi",
+            "kepala": "Panji Bintoro, S.KOM., M.Cs"
+        },
+        {
+            "nama_unit": "Biro Kepegawaian",
+            "kepala": "Ravita Irdiyani, S.Pd"
+        },
+        {
+            "nama_unit": "Biro Keuangan",
+            "kepala": "Puspita Ayu Lestari, S.E"
+        },
+        {
+            "nama_unit": "Biro Aisyah Carier Development Center",
+            "kepala": "Septika Yani Veronica, Bdn., M.Tr.KeB"
+        },
+        {
+            "nama_unit": "Biro Kemahasiswaan",
+            "kepala": "Ali Dwi Laksha, A.Md.T"
+        },
+        {
+            "nama_unit": "Biro Kemahasiswaan",
+            "kepala": "Dodi Setiawan, A.Md.Kom"
+        }
     ],
     "beasiswa": {
         "jenis": [
-            "Prestasi Akademik [cite: 3]", "Hafidz/Hafidzah [cite: 3]", "Yatim/Piatu [cite: 3]",
-            "Fakir Miskin [cite: 3]", "Prestasi MTQ [cite: 3]", "Prestasi Olahraga [cite: 3]", "Beasiswa PPA [cite: 3]"
+            "Prestasi Akademik [cite: 3]",
+            "Hafidz/Hafidzah [cite: 3]",
+            "Yatim/Piatu [cite: 3]",
+            "Fakir Miskin [cite: 3]",
+            "Prestasi MTQ [cite: 3]",
+            "Prestasi Olahraga [cite: 3]",
+            "Beasiswa PPA [cite: 3]"
         ],
         "persyaratan_khusus": [
-            { "jenis": "Fakir miskin", "detail": "Surat keterangan tidak mampu dari kelurahan [cite: 3]" },
-            { "jenis": "Prestasi Akademik", "detail": "dibuktikan dengan nilai rapor (6 lembar) [cite: 3]" },
-            { "jenis": "Prestasi non-akademik", "detail": "dibuktikan dengan sertifikat/piagam juara [cite: 3]" },
-            { "jenis": "Yatim/Piatu", "detail": "surat keterangan dari kelurahan [cite: 3]" },
-            { "jenis": "Hafidz/Hafidzah", "detail": "peserta mampu menghafal Al-qur'an minimal 10 juz dibuktikan dengan syahadah dan menyerahkan rekomendasi dari pengasuh/mursyid [cite: 3]" }
+            {
+                "jenis": "Fakir miskin",
+                "detail": "Surat keterangan tidak mampu dari kelurahan [cite: 3]"
+            },
+            {
+                "jenis": "Prestasi Akademik",
+                "detail": "dibuktikan dengan nilai rapor (6 lembar) [cite: 3]"
+            },
+            {
+                "jenis": "Prestasi non-akademik",
+                "detail": "dibuktikan dengan sertifikat/piagam juara [cite: 3]"
+            },
+            {
+                "jenis": "Yatim/Piatu",
+                "detail": "surat keterangan dari kelurahan [cite: 3]"
+            },
+            {
+                "jenis": "Hafidz/Hafidzah",
+                "detail": "peserta mampu menghafal Al-qur'an minimal 10 juz dibuktikan dengan syahadah dan menyerahkan rekomendasi dari pengasuh/mursyid [cite: 3]"
+            }
         ],
         "persyaratan_umum": [
-            "Beragama Islam [cite: 3]", "Bisa Baca Alquran [cite: 3]", "Ijazah 3 lembar (fotocopy & legalisir) [cite: 3]",
-            "SKHUN/Transkrip nilai 3 lembar (fotocopy & legalisir) [cite: 3]", "Pasfoto 3x4 & 4x6 3 lembar (berwarna & hitam putih) [cite: 3]", "Kartu Keluarga (KK) 3 lembar (fotocopy) [cite: 3]"
+            "Beragama Islam [cite: 3]",
+            "Bisa Baca Alquran [cite: 3]",
+            "Ijazah 3 lembar (fotocopy & legalisir) [cite: 3]",
+            "SKHUN/Transkrip nilai 3 lembar (fotocopy & legalisir) [cite: 3]",
+            "Pasfoto 3x4 & 4x6 3 lembar (berwarna & hitam putih) [cite: 3]",
+            "Kartu Keluarga (KK) 3 lembar (fotocopy) [cite: 3]"
         ],
         "catatan": "Serta tidak berstatus sebagai penerima beasiswa dari sumber lain. [cite: 3]",
         "info_pendaftaran": "Caranya hubungi kontak pendaftaran (0811-7200-100, 0813-222-3418) untuk mendapatkan arahan dan pengumpulan syarat dokumen. [cite: 3]"
@@ -627,5 +1964,14 @@
             "deskripsi": "Ada Perpustakaan terpadu di kampus UAP, fasilitasnya lengkap dan koleksi buku juga sangat lengkap"
         }
     ],
-    "faq": []
+    "faq": [
+        {
+            "pertanyaan": "Makna Logo UAP",
+            "jawaban": "Lambang Universitas Aisyah Pringsewu(UAP) memiliki makna sebagai berikut:\r\na) Mata pena : Melambangkan Keilmuan\r\nb) Buku : Tridharma Perguruan Tinggi\r\n\r\nBuku Warna Merah : Melambangkan Keberanian\r\nBuku Warna Biru : Melambangkan Kejayaan\r\nBuku Warna Ungu : Melambangkan keberanian untuk mencapai kejayaan/kesuksesan\r\nc) Warna ungu adalah perpaduan antara warna merah dan warna biru. Warna Merah melambangkan keberanian dan warna biru kejayaan/kesuksesan. Sehingga dapat disimpulkan filosofi warna ungu adalah keberanian untuk mencapai kejayaan/kesuksesan UAP dalam mengembangkan pendidikan\r\nd) Globe :Melambangkan UAP bisa mendunia\r\ne) Papan Nama UAP berbentuk empat persegi panjang dengan perbandingan 3 (tiga) berbanding 2 (dua) warna dasar putih (bermakna kesucian/keikhlasan) dengan tulisan ungu (bermakna kasih sayang."
+        },
+        {
+            "pertanyaan": "Abdullah Umar Faqih Al Ikhsani, S.Kom",
+            "jawaban": "Tim ICT & UAPTV"
+        }
+    ]
 }
